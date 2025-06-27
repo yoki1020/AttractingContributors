@@ -1,4 +1,4 @@
-#好きな映画/your favorite movie
+#好きなSF映画/your favorite SF movie
 
 # List of movies
 - Interstellar
