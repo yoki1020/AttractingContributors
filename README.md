@@ -4,3 +4,4 @@
 - Street Fighter 6
 - VALORANT
 - Overwatch
+- Hollow Knight
