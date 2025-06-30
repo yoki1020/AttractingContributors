@@ -7,4 +7,6 @@
 - jellyfish
 - tuna
 - Orca
+- Sea lion
 - Seal
+
