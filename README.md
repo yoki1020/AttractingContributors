@@ -4,5 +4,6 @@
 - Street Fighter 6
 - VALORANT
 - Overwatch
+- Katamari Damacy
 - Smash Bros
 - Hollow Knight
