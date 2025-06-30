@@ -5,3 +5,5 @@
 - VALORANT
 - Overwatch
 - Katamari Damacy
+- Smash Bros
+- Hollow Knight
