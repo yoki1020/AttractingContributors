@@ -5,5 +5,5 @@
 - Shark
 - Medaka
 - jellyfish
-- penguin
 - tuna
+- Orca
