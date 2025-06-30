@@ -7,3 +7,4 @@
 - jellyfish
 - tuna
 - Orca
+- Seal
