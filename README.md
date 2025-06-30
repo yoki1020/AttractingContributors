@@ -9,4 +9,5 @@
 - Orca
 - Sea lion
 - Seal
+- penguin
 
