@@ -10,4 +10,5 @@
 - Sea lion
 - Seal
 - penguin
+- Octopas
 
