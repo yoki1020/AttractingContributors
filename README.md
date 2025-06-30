@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite animal or fish to see at the aquarium?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of fish/animal
+- Club
+- Shark
+-
+-
