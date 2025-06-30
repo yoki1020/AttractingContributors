@@ -5,3 +5,4 @@
 - Shark
 - Medaka
 - jellyfish
+- tuna
