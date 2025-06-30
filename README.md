@@ -6,3 +6,4 @@
 - Medaka
 - jellyfish
 - penguin
+- tuna
