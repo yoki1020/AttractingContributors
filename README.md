@@ -5,3 +5,4 @@
 - VALORANT
 - Overwatch
 - Smash Bros
+- Hollow Knight
