@@ -3,5 +3,5 @@
 # List of fish/animal
 - Crub
 - Shark
--
+- Medaka
 -
