@@ -8,3 +8,4 @@
 - tuna
 - Orca
 - Seal
+- penguin
