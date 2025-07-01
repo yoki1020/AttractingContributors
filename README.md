@@ -7,3 +7,4 @@
 - Mini Cooper
 - CROWN COMFORT
 - Jeep
+- Honda GB 350
