@@ -10,7 +10,7 @@
 - Sea lion
 - Seal
 - penguin
+- dugong
 - Octopas
 - shrimp
-
 
