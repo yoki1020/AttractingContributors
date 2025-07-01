@@ -11,3 +11,6 @@
 - Seal
 - penguin
 - dugong
+- Octopas
+- shrimp
+
