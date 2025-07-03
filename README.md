@@ -13,4 +13,5 @@
 - dugong
 - Octopas
 - shrimp
+- Manta ray
 
