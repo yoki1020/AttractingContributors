@@ -7,3 +7,11 @@
 - super beaver
 - LE SSERAFIM
 - Queen
+- 403
+- METALLICA
+- 斉藤和義
+- Jun Maeda
+
+
+
+
