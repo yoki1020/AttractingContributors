@@ -14,4 +14,8 @@
 - Octopas
 - shrimp
 - Beaver
-
+- penguin
+- jellyfish
+- alligatior
+- penguin +1
+- 𝐭𝐢𝐠𝐞𝐫
