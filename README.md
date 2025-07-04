@@ -14,3 +14,10 @@
 - Octopas
 - shrimp
 - Penguin
+- Manta ray
+- Beaver
+- penguin
+- jellyfish
+- alligatior
+- penguin +1
+- 𝐭𝐢𝐠𝐞𝐫
