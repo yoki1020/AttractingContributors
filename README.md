@@ -13,6 +13,7 @@
 - dugong
 - Octopas
 - shrimp
+- Beaver
 - penguin
 - jellyfish
 - alligatior
