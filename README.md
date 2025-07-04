@@ -13,5 +13,6 @@
 - dugong
 - Octopas
 - shrimp
+- alligatior
 - penguin +1
 - 𝐭𝐢𝐠𝐞𝐫
